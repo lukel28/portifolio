@@ -1,7 +1,8 @@
 body {
     font-family: 'Rubik Dirt', sans-serif;
     color: #632929;
-
+    background-color: #3a3939;
+   
 }
 
 h1, h2, h3 {
@@ -155,6 +156,18 @@ input[type="submit"] {
     background: rgb(99, 11, 11);
     color:#FFFFFF;
 }
+
+
+
+
+#miranhaverso {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+}
+
 
 
 #contato {
